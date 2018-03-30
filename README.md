@@ -1,1 +1,1 @@
-GitHub Checkpoint Assignment 2
+GitHub Assignment 3
